@@ -1,0 +1,43 @@
+.my-container {
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;
+}
+
+.inner-container {
+    margin-top: 16px;
+    margin-left: 16px;
+}
+
+.qr-container {
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+
+.prompt-container {
+    margin-top: 24px;
+}
+
+.my-heading {
+    height: 56px;
+    width: 288px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 28px;
+    vertical-align: top;
+}
+
+.my-paragraph {
+    height: 57px;
+    width: 256px;
+    margin: 16px 0 0 16px;
+    text-align: center;
+}
+
+.tester {
+    height: 1px;
+    width: 64px;
+    background-color: black;
+    margin-top: 40px;
+}

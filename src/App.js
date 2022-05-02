@@ -1,8 +1,10 @@
+import Container from './components/container/Container';
+
 function App() {
   return (
-      <div>
-        <h1 className="text-3xl font-bold underline text-center">TEST</h1>
-      </div>
+    <div className='bg-lightGrey h-screen grid place-items-center'>
+      <Container />
+    </div>
   );
 }
 

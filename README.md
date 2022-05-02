@@ -4,6 +4,10 @@ Bootstrapped with [Create React App][react] and styled using [TailwindCSS][tailw
 
 [Demo implementation available here][demo]
 
+## Desktop Design
+
+![Desktop Design Image](design/desktop-design.jpg)
+
 # Front-end Style Guide
 
 ## Layout

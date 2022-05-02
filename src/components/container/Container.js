@@ -3,7 +3,7 @@ import './Container.css';
 
 export default function Container() {
   return (
-    <div className='bg-white my-container justify-center'>
+    <div className='bg-white my-container justify-center shadow-2xl shadow-lightGrey'>
       <div className='inner-container'>
         <img src={qrCode} className='qr-container' alt='' />
         <div className='prompt-container'>
